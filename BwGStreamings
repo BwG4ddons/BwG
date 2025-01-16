@@ -1,48 +1,86 @@
-<!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  
 
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 - Lista Nando [COLOR green] ON    [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES DE TV LISTAS ACHADAS NA INTERNET [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
+</channel>
 
 
-	<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/RR24iss.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/boboplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR blue]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR blue]DISNEY[/COLOR][COLOR white]+[/COLOR][COLOR blue]=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/rHOuLzy.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/disneyplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR red]NETFLIX=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/Kd9UXwv.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/netfliplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR deepskyblue]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR deepskyblue]PRIME VIDEO=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/QE4HCgG.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/primeplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR deeppink]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR deeppink]PLUTO TV=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/ESsnZnp.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPlutoTv</externallink>
-		<info></info>
-	</item>
-		<item>
-		<title>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR black]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR black]APPLE TV=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/u4cytzz.png</thumbnail>
-		<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/vixplay</externallink>
-		<info></info>
-	</item>
+ 
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 2 [COLOR  blue]LISTA PERSONALIZADA [COLOR green] ON [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES LISTAS PERSONALIZADAS [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
+
+ 
+ <channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://aristotelesdrummond.com.br/wp-content/uploads/2021/08/portugal-x-brasil.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/PORTUGAL.xml</externallink>
+</channel>
+
+
+
+  
+  <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR YOUTUBE - séries/desenhos  [COLOR red] EM CONSTRUÇÃO [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24hs%20YouTube%20.xml</externallink>
+</channel>
+
+
+    
+  <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR - TWO BR CANAIS 24 HRS [COLOR green]ON [/COLOR][/B]</name>
+<thumbnail>https://ia801402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
+<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
+</channel>
+  
+  
+ <channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR deeppink]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR deeppink]PLUTO TV=-[/COLOR][/B]</name>
+<thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
+</channel>   
+
+
+
+  <channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR black]-=[/COLOR][COLOR white]STREAMINGS[/COLOR] | [COLOR black]APPLE TV=-[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES DE TV LISTAS ACHADAS NA INTERNET [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+  <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]RUM TIME [COLOR green] ON    [/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES DE TV LISTAS ACHADAS NA INTERNET [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+  
+</channels>
