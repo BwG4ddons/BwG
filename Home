@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] ==== BWG-PLAY ADDONS ====[/COLOR][/B]</name>
+<name>[B][COLOR orange][/COLOR] [COLOR yellow] ==== BWG-PLAY ADDONS ====[/COLOR][/B]</name>
 <thumbnail>https://ia601507.us.archive.org/4/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue] Bem vindo ao addon BWG-PLAY ADDONS. [/COLOR]</info>
+<info>[COLOR orange]* [COLOR orange] Bem vindo ao addon BWG-PLAY ADDONS. [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
 
   
   <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TV AO VIVO [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TV AO VIVO [/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</thumbnail>
 <fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
-<info>[COLOR blue]*[COLOR [/COLOR]</info>
+<info>[COLOR orange]*[COLOR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwgServidores</externallink>
 </channel>
 
 
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/9/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFilmes</externallink>
 </channel>
 
@@ -30,10 +30,10 @@
 
   
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] SÉRIES [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] SÉRIES [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/12/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSeries</externallink>
 </channel>
 
@@ -41,34 +41,34 @@
   
   
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/6.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]DESENHOS, ANIMES [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]DESENHOS, ANIMES [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos</externallink>
 </channel>
 
 
   
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
 <thumbnail>https://ia601403.us.archive.org/13/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]SERIES JAPONESAS BR [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]SERIES JAPONESAS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
 </channel>
 
  
 <channel>
-<name>[B][COLOR orangered]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO MUSIC [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO MUSIC [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
 <externallink></externallink>
 </channel>  
   
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orangered]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=STREAMINGS=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=STREAMINGS=-[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGStreamings</externallink>
 <thumbnail>https://ia601505.us.archive.org/33/item.png</thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@
 </channel>
  
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] CANAL RICOS TV WEB  [/COLOR][/B]</name>
+<name>[B][COLOR orange]BWG-PLAY ADDONS[/COLOR] * [COLOR white] CANAL RICOS TV WEB  [/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
 <thumbnail>https://ia601505.us.archive.org/33/items/logo-canal-ricos-fundo-branco_202209/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
 <fanart>https://ia601509.us.archive.org/3/items/canal-rico/canal%20rico.png</fanart>
@@ -87,10 +87,10 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
  
   
   <channel>
-<name>[B][COLOR blue] DOAÇÃO VIA PIX AO BWG-PLAY ADDONS[/COLOR] * [COLOR white]( xxxxxxxxxx )[/COLOR][/B]</name>
+<name>[B][COLOR orange] DOAÇÃO VIA PIX AO BWG-PLAY ADDONS[/COLOR] * [COLOR white]( xxxxxxxxxx )[/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/33.jpg</thumbnail>
 <fanart>https://ia601501.us.archive.org/33.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]AJUDE NO PROJETO BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]AJUDE NO PROJETO BWG-PLAY ADDONS [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
   
