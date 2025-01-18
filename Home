@@ -2,7 +2,7 @@
 <channels>
 <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] ==== BWG-PLAY ADDONS ====[/COLOR][/B]</name>
-<thumbnail>https://ia601507.us.archive.org/4/items/two-addons-bm-vindos.jpg</thumbnail>
+<thumbnail>https://ia601507.us.archive.org/4/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]* [COLOR blue] Bem vindo ao addon BWG-PLAY ADDONS. [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
@@ -11,9 +11,9 @@
 
 
 <channel>
-<name>[B][COLOR blue]TWO PLAY TV VIP [/COLOR] * [COLOR white](71) x xxxx-xxxx[/COLOR][/B]</name>
-<thumbnail>https://ia800604.us.archive.org/33/items/two-baixar.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<name>[B][COLOR blue] PLAY TV VIP [/COLOR] * [COLOR white](71) x xxxx-xxxx[/COLOR][/B]</name>
+<thumbnail>https://ia800604.us.archive.org/33/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/two%20vip.xml</externallink>
 </channel> 
@@ -24,9 +24,9 @@
 
   
   <channel>
-<name>[B][COLOR blue]CANAIS SEM TRAVAMENTOS, PLANOS MENSAL CHAMA NO ZAP [/COLOR] * [COLOR white](11) 9 6270-0455[/COLOR][/B]</name>
-<thumbnail>https://ia800604.us.archive.org/33/items/two-baixar.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<name>[B][COLOR blue]CANAIS SEM TRAVAMENTOS, PLANOS MENSAL CHAMA NO ZAP [/COLOR] * [COLOR white](00) 0 0000-0000[/COLOR][/B]</name>
+<thumbnail>https://ia800604.us.archive.org/33/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
 <externallink>https://www.mediafire.com/file/mu26mdhrfempsxv/TWO+ADDO-NS+playtv.zip/file</externallink>
 </channel> 
@@ -43,8 +43,8 @@
 
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
-<thumbnail>https://ia601501.us.archive.org/9/items/two-addons-filmes.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<thumbnail>https://ia601501.us.archive.org/9/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/filmes.xml</externallink>
 </channel>
@@ -54,8 +54,8 @@
   
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] SÉRIES [/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-series.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
+<thumbnail>https://ia601402.us.archive.org/12/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series.xml</externallink>
 </channel>
@@ -84,7 +84,7 @@
   
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] DESENHOS [/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/6/items/two-addons-desenhos.jpg</thumbnail>
+<thumbnail>https://ia601402.us.archive.org/6.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]DESENHOS, ANIMES [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/desenhos.xml</externallink>
@@ -97,7 +97,7 @@
   
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TOKUSATSU [/COLOR][/B]</name>
-<thumbnail>https://ia601403.us.archive.org/13/items/two-addons-tokusatsu.jpg</thumbnail>
+<thumbnail>https://ia601403.us.archive.org/13/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]SERIES JAPONESAS BR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
@@ -108,7 +108,7 @@
   
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO GOSPEL [/COLOR][/B]</name>
-<thumbnail>https://ia601503.us.archive.org/18/items/two-addons-gospel.jpg</thumbnail>
+<thumbnail>https://ia601503.us.archive.org/18/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/RADIO.xml</externallink>
