@@ -6,14 +6,14 @@
 <channels>
 	
 	<channel>
-		<name>[B][COLOR yellow]|[/COLOR][COLOR green]BWG-PLAY ADDONS[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B]</name>
 		<thumbnail>https://i.imgur.com/BsIpInx.png</thumbnail>
 		<fanart></fanart>
 		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGGplayMovie</externallink>
 		<info></info>
 	</channel>
 		<channel>
-		<name>[B][COLOR yellow]|[/COLOR][COLOR green]BWG-PLAY ADDONS[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=[/COLOR][COLOR white]TV SHOWS[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+		<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=[/COLOR][COLOR white]SERIES[/COLOR] | [COLOR orangered]GLOBOPLAY=-[/COLOR][/B]</name>
 		<thumbnail>https://i.imgur.com/msfU9Ll.png</thumbnail>
 		<fanart></fanart>
 		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGGplayShow</externallink>
