@@ -60,7 +60,7 @@
 
  
 <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO MUSIC [/COLOR][/B]</name>
+<name>[B][COLOR orangered]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO MUSIC [/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
@@ -68,12 +68,11 @@
 </channel>  
   
  <channel>
-<name>[B][COLOR yellow]|[/COLOR][COLOR green]BWG-PLAY ADDONS[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=STREAMINGS=-[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
-<thumbnail>https://ia601505.us.archive.org/33/items/logo-canal-ricos-fundo-branco_202209/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
-<fanart>https://ia601509.us.archive.org/3/items/canal-rico/canal%20rico.png</fanart>
-<info>CANAL RICOS perus/SP, Maiores informações, Dúvidas e custos, por favor entrar em contato conosco.
-F: (11) 3918-8581 / (11) 98870-0735</info>
+<name>[B][COLOR yellow][/COLOR][COLOR orangered]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=STREAMINGS=-[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGStreamings</externallink>
+<thumbnail>https://ia601505.us.archive.org/33/item.png</thumbnail>
+<fanart></fanart>
+<info></info>
 </channel>
  
 <channel>
