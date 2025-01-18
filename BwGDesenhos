@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>  
+
+ 
+   <channel>
+<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] ANIMES [/COLOR][/B]</name>
+<thumbnail>https://ia801404.us.archive.org/32/items.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<info>[COLOR blue]*[COLOR] animes [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/animes.xml</externallink>
+</channel>
+
+
+ <channel>
+<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] DESENHOS ANTIGOS [/COLOR][/B]</name>
+<thumbnail>https://ia801409.us.archive.org/8/items/.jpg</thumbnail>
+<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/jpg</fanart>
+<info>[COLOR blue]*[COLOR bora relembrar a infancia [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/desenhos%20antigos%20update.xml</externallink>
+</channel>
+  
+  
+  <channel>
+<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] VARIADOS - ANOS 2000 [/COLOR][/B]</name>
+<thumbnail>https://ia801408.us.archive.org/9/items/two-addons-variados.jpg</thumbnail>
+<fanart>https://ia801408.us.archive.org/9/items/two-addons-variados.jpg</fanart>
+<info>[COLOR blue]*[COLOR] [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/variados.xml</externallink>
+</channel>
+
+ 
+ 
+ 
+</channels>
