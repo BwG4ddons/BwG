@@ -8,30 +8,6 @@
 <externallink>https://0.0.0</externallink>
 </channel>
 
-
-
-<channel>
-<name>[B][COLOR blue] PLAY TV VIP [/COLOR] * [COLOR white](71) x xxxx-xxxx[/COLOR][/B]</name>
-<thumbnail>https://ia800604.us.archive.org/33/items.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/two%20vip.xml</externallink>
-</channel> 
-
-
-
-
-
-  
-  <channel>
-<name>[B][COLOR blue]CANAIS SEM TRAVAMENTOS, PLANOS MENSAL CHAMA NO ZAP [/COLOR] * [COLOR white](00) 0 0000-0000[/COLOR][/B]</name>
-<thumbnail>https://ia800604.us.archive.org/33/items.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue] APLICATIVO A PARTE click para baixar [/COLOR]</info>
-<externallink>https://www.mediafire.com/file/mu26mdhrfempsxv/TWO+ADDO-NS+playtv.zip/file</externallink>
-</channel> 
-  
-  
   
   <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] TV AO VIVO [/COLOR][/B]</name>
@@ -40,6 +16,7 @@
 <info>[COLOR blue]*[COLOR [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/servidores.xml</externallink>
 </channel>
+
 
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white]FILMES [/COLOR][/B]</name>
@@ -60,17 +37,6 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series.xml</externallink>
 </channel>
 
-
-  
- <channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] NOVELAS TURCAS [/COLOR][/B] [B][COLOR green] ON [/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR [/COLOR]</info>
-<externallink></externallink>
-</channel>
-
-
   
 <channel>
 <name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] CLASSICOS [/COLOR][/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
@@ -89,9 +55,6 @@
 <info>[COLOR blue]*[COLOR blue]DESENHOS, ANIMES [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/desenhos.xml</externallink>
 </channel>
-
-
-
 
 
   
