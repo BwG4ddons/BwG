@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[B][COLOR orange][/COLOR] [COLOR yellow] ==== BWG-PLAY ADDONS ====[/COLOR][/B]</name>
+<name>[B][COLOR orange][/COLOR] [COLOR yellow] ==== COYOTE-PLAY ADDONS ====[/COLOR][/B]</name>
 <thumbnail>https://ia601507.us.archive.org/4/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR orange]* [COLOR orange] Bem vindo ao addon BWG-PLAY ADDONS. [/COLOR]</info>
+<info>[COLOR orange]* [COLOR orange] Bem vindo ao addon COYOTE-PLAY ADDONS. [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
 
   
  <channel>
  
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV AO VIVO=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV AO VIVO=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/bvggYzY/Untitled-design.gif</thumbnail>
 <fanart>https://i.ibb.co/bvggYzY/Untitled-design.gif</fanart>
-<info>[COLOR orange]*[COLOR [/COLOR]</info>
+<info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwgServidores</externallink>
 </channel>
 
 
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=FILMES=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=FILMES=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/qJwK5n8/Capa-Filmes-Coyite-Play-tn.jpg</thumbnail>
 <fanart>https://i.ibb.co/Synswn2/Capa-Filmes-Coyite-Play.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
@@ -33,10 +33,10 @@
   
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=SÉRIES=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=SÉRIES=-[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/12/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR orange]*[COLOR orange]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSeries</externallink>
 </channel>
 
@@ -45,10 +45,10 @@
   
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=DESENHOS=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=DESENHOS=-[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/6.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR orange]*[COLOR orange]DESENHOS, ANIMES [/COLOR]</info>
+<info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos</externallink>
 </channel>
 
@@ -56,20 +56,20 @@
   
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TOKUSATSU=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TOKUSATSU=-[/COLOR][/B]</name>
 <thumbnail>https://ia601403.us.archive.org/13/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR orange]*[COLOR orange]SERIES JAPONESAS BR [/COLOR]</info>
+<info>[COLOR orange]*[COLOR orange]SERIES JAPONESAS  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
 </channel>
 
  
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=RADIO MUSIC=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=RADIO MUSIC=-[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>[COLOR orange]*[COLOR orange]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info></info>
 <externallink></externallink>
 </channel>  
   
@@ -84,7 +84,7 @@
  
 <channel>
 
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV WEB=-[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV WEB=-[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
 <thumbnail>https://ia601505.us.archive.org/33/items/logo-canal-ricos-fundo-branco_202209/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
 <fanart>https://ia601509.us.archive.org/3/items/canal-rico/canal%20rico.png</fanart>
@@ -95,7 +95,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
  
   
 <channel>
-<name>[B][COLOR orange] DOAÇÃO VIA PIX AO BWG-PLAY ADDONS[/COLOR] * [COLOR white]( xxxxxxxxxx )[/COLOR][/B]</name>
+<name>[B][COLOR orange] DOAÇÃO VIA PIX AO COYOTE-PLAY ADDONS[/COLOR] * [COLOR white]( xxxxxxxxxx )[/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/33.jpg</thumbnail>
 <fanart>https://ia601501.us.archive.org/33.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]AJUDE NO PROJETO BWG-PLAY ADDONS [/COLOR]</info>
