@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] LANÇAMENTOS [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] LANÇAMENTOS [/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/33x.jpg</thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]AJUDE NO PROJETO BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]AJUDE NO PROJETO COYOTE-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGLan%C3%A7amentos</externallink>
 </channel>
 
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]AÇÃO [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]AÇÃO [/COLOR][/B]</name>
 <thumbnail>https://ia801507.us.archive.org/25/items/two-addons-aca-o/.jpg</thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/a%C3%A7%C3%A3o%20update.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
 <thumbnail>https://ia601403.us.archive.org/19/items/two-addons-animaca-o.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_2022090.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/anima%C3%A7%C3%A3o%20update.xml</externallink>
 </channel>
 
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]CASSICOS [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]CASSICOS [/COLOR][/B]</name>
 <thumbnail>https://ia801403.us.archive.org/34/items.jpg</thumbnail>
 <fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
@@ -34,7 +34,7 @@
 </channel>  
 
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]COLETANIA [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]COLETANIA [/COLOR][/B]</name>
 <thumbnail>https://ia801403.us.archive.org/34/items/two-addons-comedia/.jpg</thumbnail>
 <fanart>https://ia801403.us.archive.org/34/items/two-addons-comedia/jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
@@ -42,7 +42,7 @@
 </channel>  
 
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]COMEDIA [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]COMEDIA [/COLOR][/B]</name>
 <thumbnail>https://ia801403.us.archive.org/34/items/two-addons-comedia/.jpg</thumbnail>
 <fanart>https://ia801403.us.archive.org/34/items/two-addons-comedia/jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
@@ -50,7 +50,7 @@
 </channel>  
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]DRAMA [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]DRAMA [/COLOR][/B]</name>
 <thumbnail>https://ia601505.us.archive.org/15/items/two-addons-drama.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]filmes de romance  [/COLOR]</info>
@@ -58,7 +58,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROMANCE [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROMANCE [/COLOR][/B]</name>
 <thumbnail>https://ia601400.us.archive.org/0/items/two-addons-romance/.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES ROMANCE, ATUALIZAÇÃO EM ANDAMENTO [/COLOR]</info>
@@ -66,15 +66,15 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] RELIGIOSO [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] RELIGIOSO [/COLOR][/B]</name>
 <thumbnail>https://ia601503.us.archive.org/18/items/two-addons-gospel.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/gospel.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]TERROR [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]TERROR [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/12/items/two-addons-terro.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
@@ -82,7 +82,7 @@
 </channel>
   
 <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] SUSPENSE [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] SUSPENSE [/COLOR][/B]</name>
 <thumbnail>https://ia801401.us.archive.org/5/items.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
@@ -90,7 +90,7 @@
 </channel>  
   
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] POLICIAL [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] POLICIAL [/COLOR][/B]</name>
 <thumbnail>https://ia904703.us.archive.org/12/items.jpg</thumbnail>
 <fanart>https://ia904703.us.archive.org/12/itemsL.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
@@ -98,7 +98,7 @@
 </channel>  
   
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FICÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FICÇÃO[/COLOR][/B]</name>
 <thumbnail>https://ia601505.us.archive.org/32/pg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE FICÇÃO, ATUALIZAÇÃO UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
@@ -106,7 +106,7 @@
 </channel>
   
  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]BWG-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FAROESTE [/COLOR][/B]</name>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FAROESTE [/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/20/itemsjpg</thumbnail>
 <fanart>https://ia601402.us.archive.org/20.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
