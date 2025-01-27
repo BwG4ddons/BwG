@@ -59,56 +59,56 @@
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROMANCE [/COLOR][/B]</name>
-<thumbnail>https://ia601400.us.archive.org/0/items/two-addons-romance/.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/.jpg</fanart>
+<thumbnail>https://i.ibb.co/d74x2hc/Capa-filmes-tb15.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES ROMANCE, ATUALIZAÇÃO EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/romance%20update.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] RELIGIOSO [/COLOR][/B]</name>
-<thumbnail>https://ia601503.us.archive.org/18/items/two-addons-gospel.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<thumbnail>https://i.ibb.co/qJwK5n8/Capa-Filmes-Coyite-Play-tn.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/gospel.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]TERROR [/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/12/items/two-addons-terro.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903jpg</fanart>
+<thumbnail>https://i.ibb.co/sjdXNGr/Capa-filmes-tb11.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/terror%20update.xml</externallink>
 </channel>
   
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] SUSPENSE [/COLOR][/B]</name>
-<thumbnail>https://ia801401.us.archive.org/5/items.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1.jpg</fanart>
+<thumbnail>https://i.ibb.co/6ZVtFvm/Capa-filmes-tb14.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/SUSPENSE.xml</externallink>
 </channel>  
   
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] POLICIAL [/COLOR][/B]</name>
-<thumbnail>https://ia904703.us.archive.org/12/items.jpg</thumbnail>
-<fanart>https://ia904703.us.archive.org/12/itemsL.jpg</fanart>
+<thumbnail>https://i.ibb.co/c3nnPqQ/Capa-filmes-tb12.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/POLICIAL.xml</externallink>
 </channel>  
   
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FICÇÃO[/COLOR][/B]</name>
-<thumbnail>https://ia601505.us.archive.org/32/pg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items.jpg</fanart>
+<thumbnail>https://i.ibb.co/NZWYFGy/Capa-filmes-tb13.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES DE FICÇÃO, ATUALIZAÇÃO UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/ficcao.xml</externallink>
 </channel>
   
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FAROESTE [/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/20/itemsjpg</thumbnail>
-<fanart>https://ia601402.us.archive.org/20.jpg</fanart>
+<thumbnail>https://i.ibb.co/tKV0vNY/Capa-filmes-tb4.jpg</thumbnail>
+<fanart>https://i.ibb.co/tKV0vNY/Capa-filmes-tb4.jpg</fanart>
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/faroeste.xml</externallink>
 </channel>
