@@ -22,8 +22,8 @@
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=FILMES=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/qJwK5n8/Capa-Filmes-Coyite-Play-tn.jpg</thumbnail>
-<fanart>https://i.ibb.co/Synswn2/Capa-Filmes-Coyite-Play.jpg</fanart>
+<thumbnail>https://i.ibb.co/7SZCnQB/filmes.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR orange]*[COLOR orange]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFilmes</externallink>
 </channel>
@@ -46,8 +46,8 @@
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=DESENHOS=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/L9Bxq5K/Capa-Desenho-Coyite-Play-tn.jpg</thumbnail>
-<fanart>https://i.ibb.co/0rH519k/desenho.jpg</fanart>
+<thumbnail>https://i.ibb.co/0rH519k/desenho.jpg</thumbnail>
+<fanart></fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos</externallink>
 </channel>
@@ -86,10 +86,9 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV WEB=-[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
-<thumbnail>https://i.ibb.co/F41S0Dr/Logo.jpg</thumbnail>
-<fanart>https://ia601509.us.archive.org/3/items/canal-rico/canal%20rico.png</fanart>
-<info>CANAL RICOS perus/SP, Maiores informações, Dúvidas e custos, por favor entrar em contato conosco.
-F: (11) 3918-8581 / (11) 98870-0735</info>
+<thumbnail>https://i.ibb.co/rGk5KZW/tv-web.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
 </channel>
   
  
