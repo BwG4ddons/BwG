@@ -12,8 +12,8 @@
  <channel>
  
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV AO VIVO=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/F41S0Dr/Logo.jpg</thumbnail>
-<fanart>https://i.ibb.co/bvggYzY/Untitled-design.gif</fanart>
+<thumbnail>https://i.ibb.co/pyfn71T/tv-ao-vivo.jpg</thumbnail>
+<fanart></fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwgServidores</externallink>
 </channel>
@@ -34,8 +34,8 @@
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=SÉRIES=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/dmRb80D/Capa-Series-Coyite-Play-tn.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<thumbnail>https://i.ibb.co/vjPxBrX/series.jpg</thumbnail>
+<fanart></fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSeries</externallink>
 </channel>
@@ -47,7 +47,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=DESENHOS=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/L9Bxq5K/Capa-Desenho-Coyite-Play-tn.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<fanart>https://i.ibb.co/0rH519k/desenho.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos</externallink>
 </channel>
@@ -57,8 +57,8 @@
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TOKUSATSU=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/LDwHDC0/Capa-Tokusatsus-Coyite-Play-tn.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
+<thumbnail>https://i.ibb.co/5TvZfNZ/tokusatsu.jpg</thumbnail>
+<fanart></fanart>
 <info>[COLOR orange]*[COLOR orange]SERIES JAPONESAS  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/tokusatsu.xml</externallink>
 </channel>
@@ -67,7 +67,7 @@
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=RADIO MUSIC=-[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/tq0JzMW/Capa-Musica-Coyite-Play-tn.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/fkvXnQv/musicas.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <externallink></externallink>
@@ -77,7 +77,7 @@
  
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=STREAMINGS=-[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGStreamings</externallink>
-<thumbnail>https://i.ibb.co/F41S0Dr/Logo.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/K77vLmG/Streaming.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
