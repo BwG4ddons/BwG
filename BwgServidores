@@ -33,24 +33,13 @@
 </channel>
   
   
- <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=PLUTO TV=-[/COLOR][/B]</name>
-<thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPlutoTv</externallink>
-</channel>   
+<channel>
 
-
-
-
-
-  <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=RUM TIME=-[/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/.jpg</thumbnail>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV WEB=-[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
+<thumbnail>https://i.ibb.co/rGk5KZW/tv-web.jpg</thumbnail>
 <fanart></fanart>
-<info>[COLOR blue]* [COLOR blue]TESTES DE TV LISTAS ACHADAS NA INTERNET [/COLOR]</info>
-<externallink></externallink>
+<info></info>
 </channel>
 
 
