@@ -8,6 +8,13 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGLan%C3%A7amentos</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGAnima%C3%A7%C3%A3o</externallink>
+</channel>
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]AÇÃO [/COLOR][/B]</name>
@@ -17,13 +24,6 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGA%C3%A7%C3%A3o</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGAnima%C3%A7%C3%A3o</externallink>
-</channel>
 
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]CLÁSSICOS [/COLOR][/B]</name>
@@ -48,6 +48,15 @@
 <info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGComedia</externallink>
 </channel>  
+
+ <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]DC & MARVEL [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GPbsXKc.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES  , ATUALIZAÇÕES UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDc%26Marvel</externallink>
+</channel>  
+
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]DRAMA [/COLOR][/B]</name>
