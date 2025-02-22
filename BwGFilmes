@@ -8,13 +8,6 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGLan%C3%A7amentos</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGAnima%C3%A7%C3%A3o</externallink>
-</channel>
 
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]AÇÃO [/COLOR][/B]</name>
@@ -24,6 +17,29 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGA%C3%A7%C3%A3o</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ANIMAÇÃO [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGAnima%C3%A7%C3%A3o</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]AVENTURA [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]BIOGRAFIA [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/k4fCQXx/Addon-Coyote-Play-Anima-o.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS FILMES DE ANIMAÇÃO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com</externallink>
+</channel>
 
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]CLÁSSICOS [/COLOR][/B]</name>
@@ -41,6 +57,7 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGColetanea</externallink>
 </channel>  
 
+
  <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]COMÉDIA [/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/GPbsXKc/Addon-Coyote-Play-Comedia.jpg</thumbnail>
@@ -57,69 +74,12 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDc%26Marvel</externallink>
 </channel>  
 
-
 <channel>
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]DRAMA [/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/tXhBDL4/Addon-Coyote-Play-Drama.jpg</thumbnail>
 <fanart></fanart>
 <info>[COLOR blue]*[COLOR blue]filmes de romance  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDrama</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]NACIONAL [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/5gRQwkj4/Nacional.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]filmes de romance  [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGNacional</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROMANCE [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/cC4KZvy/Addon-Coyote-Play-Romance.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES ROMANCE, ATUALIZAÇÃO EM ANDAMENTO [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRomance</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]RELIGIOSO [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/gMshnxs/Addon-Coyote-Play-Religioso.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGEvangelico</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]TERROR [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Mk84M0m/Addon-Coyote-Play-terror.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGTerror</externallink>
-</channel>
-  
-<channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]SUSPENSE [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/3NYFxh8/Addon-Coyote-Play-suspense.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSuspence</externallink>
-</channel>  
-  
- <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]POLICIAL [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/jrDJSd4/Addon-Coyote-Play-policial.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPolicial</externallink>
-</channel>  
-  
- <channel>
-<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FICÇÃO[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/c2Nhmmr/Addon-Coyote-Play-fic-o.jpg</thumbnail>
-<fanart></fanart>
-<info>[COLOR blue]*[COLOR blue]FILMES DE FICÇÃO, ATUALIZAÇÃO UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFic%C3%A7%C3%A3o</externallink>
 </channel>
   
  <channel>
@@ -130,5 +90,62 @@
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFaroeste</externallink>
 </channel>
   
+ <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]FICÇÃO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/c2Nhmmr/Addon-Coyote-Play-fic-o.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE FICÇÃO, ATUALIZAÇÃO UMA VEZ POR SEMANA CATEGORIA EM ANDAMENTO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFic%C3%A7%C3%A3o</externallink>
+</channel>
+ 
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]NACIONAL [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/5gRQwkj4/Nacional.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]filmes de romance  [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGNacional</externallink>
+</channel>
+ 
+ <channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]POLICIAL [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/jrDJSd4/Addon-Coyote-Play-policial.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPolicial</externallink>
+</channel>  
+ 
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]RELIGIOSO [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/gMshnxs/Addon-Coyote-Play-Religioso.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon COYOTE-PLAY ADDONS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGEvangelico</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROMANCE [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/cC4KZvy/Addon-Coyote-Play-Romance.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES ROMANCE, ATUALIZAÇÃO EM ANDAMENTO [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRomance</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]SUSPENSE [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3NYFxh8/Addon-Coyote-Play-suspense.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSuspence</externallink>
+</channel>  
+
+
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]TERROR [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Mk84M0m/Addon-Coyote-Play-terror.jpg</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue]*[COLOR blue]FILMES DE TERROR, ATUALIZAÇÃO EM ANDAMENTO[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGTerror</externallink>
+</channel>
+
 
 </channels>
