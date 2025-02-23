@@ -26,10 +26,17 @@
 </item>
 
 
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Guns N' Roses Appetite for Democracy 3D Live at Hard Rock Las Vegas [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2feed3956088dd379c962443851ed30623f205b</link>
+<thumbnail>https://universalmusic.vtexassets.com/arquivos/ids/176476-1600-auto?v=637968803895430000&width=1600&height=auto&aspect=true</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] xxxxxxxxx [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link></link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
