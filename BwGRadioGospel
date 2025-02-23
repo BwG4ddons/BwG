@@ -1,8 +1,22 @@
-<channel>
-<name>[B][COLOR blue]BWG-PLAY ADDONS[/COLOR] * [COLOR white] RADIO GOSPEL [/COLOR][/B]</name>
-<thumbnail>https://ia601503.us.archive.org/18/items.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon BWG-PLAY ADDONS [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/RADIO.xml</externallink>
-</channel>
-  
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Jaguaribe Web Gospel  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>http://stream.zeno.fm/3mydb487f0hvv</link>
+<thumbnail>https://ia601404.us.archive.org/29/items/web.jpeg</thumbnail>
+<fanart></fanart>
+<info>Radio  Web Gospel, Musicas Variadas  de seguimento Cristão com objetivo de transmitir aos ouvintes lindos louvores a Deus  com intuito de entreter de uma forma positiva e espiritual, levando através da música Cristã; alegria, paz de espirito e lindas e edificantes reflexões para fortalecer e animar a fé em Cristo Jesus.</info>
+</item>
+
+ 
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Caricatunando Web Gospel [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>http://stream.zeno.fm/fos6g0usuj3tv</link>
+<thumbnail>https://ia801503.us.archive.org/18/L.jpg</thumbnail>
+<fanart></fanart>
+<info>Radio  Web Gospel, Musicas Variadas </info>
+</item>
+ 
+
+
+</items> 
