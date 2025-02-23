@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
  <items>
 <item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Gospel  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
-<link>http://stream.zeno.fm/3mydb487f0hvv</link>
-<thumbnail>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioGospel</thumbnail>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Som Brasil  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>http://stream.zeno.fm/</link>
+<thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info></info>
+</item>
+
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Gospel  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioGospel</link>
+<thumbnail>https://i.pinimg.com/736x/d6/17/39/d617396791c138f0112e435fb5afe641.jpg</thumbnail>
+<fanart></fanart>
+<info>Música gospel é um tipo de música composto para expressar a crença, individual ou comunitária, predominantemente cristã. A música gospel é escrita e executada por muitos motivos com motivo religioso ou até cerimonial, ou como um produto de entretenimento para o mercado comercial.</info>
 </item>
 
 <item>
