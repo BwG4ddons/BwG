@@ -1,9 +1,23 @@
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
 <item>
-<title>[B][COLOR orange] Meu Som  Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p [/COLOR][/B]</title>
-<link>https://archive.org/download/Episdio36RockNacionalAnos708090Vol.7/Episdio36RockNacionalAnos708090Vol.7_vbr.m3u</link>
-<link>https://archive.org/download/Episdio36RockNacionalAnos708090Vol.7/Episdio36RockNacionalAnos708090Vol.7_vbr.m3u</link>
-<thumbnail>https://media.themoviedb.org/t/p/original.jpg</thumbnail>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Men at Work - 1982 - MTV - Ontario Canada  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881b9d77dbdf8010e84755ad7aec792aa4af9aed</link>
+<thumbnail>https://images-americanas.b2w.io/produtos/27032388/imagens/men-at-work-live-us-festival-dvd-rock/27032389_1_xlarge.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
+
+ 
+
+ 
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] xxxxxxxxx [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+</items> 
