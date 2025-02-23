@@ -1,45 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
- <items>
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Som Brasil  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
-<link>http://stream.zeno.fm/</link>
-<thumbnail>https://</thumbnail>
+<channels>
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]LANÇAMENTOS [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/7QwGzKq/Addon-Coyote-Play-Lan-amento.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
-</item>
+<info>[COLOR blue]*[COLOR blue]Bem vindo ao addon Coyote-play Addons Entretenimento [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGLan%C3%A7amentos</externallink>
+</channel>
 
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Gospel  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioGospel</link>
+
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]GOSPEL [/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/736x/d6/17/39/d617396791c138f0112e435fb5afe641.jpg</thumbnail>
 <fanart></fanart>
-<info>Música gospel é um tipo de música composto para expressar a crença, individual ou comunitária, predominantemente cristã. A música gospel é escrita e executada por muitos motivos com motivo religioso ou até cerimonial, ou como um produto de entretenimento para o mercado comercial.</info>
-</item>
+<info>[COLOR blue]*[COLOR blue]Música gospel é um tipo de música composto para expressar a crença, individual ou comunitária, predominantemente cristã. A música gospel é escrita e executada por muitos motivos com motivo religioso ou até cerimonial, ou como um produto de entretenimento para o mercado comercial.[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioGospel</externallink>
+</channel>
 
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] MPB [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioMpb</link>
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]MPB [/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/736x/e8/b5/b5/e8b5b5520502c4fbb618c90d61b2abdd.jpg</thumbnail>
 <fanart></fanart>
-<info>A MPB, sigla derivada da expressão Música Popular Brasileira, é um gênero musical surgido no Brasil em meados da década de 1960. A MPB surgiu a partir de 1966 na cidade do Rio de Janeiro com a segunda geração da bossa nova, mas com uma forte influência do folclore brasileiro que já vinha desde 1932.</info>
-</item> 
+<info>[COLOR blue]*[COLOR blue]A MPB, sigla derivada da expressão Música Popular Brasileira, é um gênero musical surgido no Brasil em meados da década de 1960. A MPB surgiu a partir de 1966 na cidade do Rio de Janeiro com a segunda geração da bossa nova, mas com uma forte influência do folclore brasileiro que já vinha desde 1932. [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRadioMpb</externallink>
+</channel>
 
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Reggae [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGReggae</link>
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]REGGAE [/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/736x/33/90/40/339040841575ee89b6b25742111e9809.jpg</thumbnail>
 <fanart></fanart>
-<info>Reggae é um gênero musical criado na Jamaica do fim da década de 1960, a partir dos gêneros ska e rocksteady. Embora por vezes seja usado num sentido genérico para referir-se à maioria dos tipos de música jamaicana.</info>
-</item>
+<info>[COLOR blue]*[COLOR blue]Reggae é um gênero musical criado na Jamaica do fim da década de 1960, a partir dos gêneros ska e rocksteady. Embora por vezes seja usado num sentido genérico para referir-se à maioria dos tipos de música jamaicana. [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGReggae</externallink>
+</channel>
 
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Rock and roll [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRockRoll</link>
+<channel>
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue]ROCK AND ROLL [/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/736x/a3/e5/25/a3e52517ca50063dbd856d9717f599f5.jpg</thumbnail>
 <fanart></fanart>
-<info>O rock and roll, também conhecido como rock & roll, rock'n'roll, é um gênero musical surgido nos Estados Unidos no final entre as décadas 1940 e 1950, com raízes nos estilos musicais norte-americanos, como: country, blues, R&B, e que rapidamente se espalhou para o resto do mundo </info>
-</item>
+<info>[COLOR blue]*[COLOR blue]O rock and roll, também conhecido como rock & roll, rock'n'roll, é um gênero musical surgido nos Estados Unidos no final entre as décadas 1940 e 1950, com raízes nos estilos musicais norte-americanos, como: country, blues, R&B, e que rapidamente se espalhou para o resto do mundo [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRockRoll</externallink>
+</channel>
+
  
 
-</items> 
+
+</channels>
