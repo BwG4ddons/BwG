@@ -1,1 +1,28 @@
-ok
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Bob Marley One Love COLLECTiVE  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>http://stream.zeno.fm</link>
+<thumbnail>https://ia601404.us.archive.org/web.jpeg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+ 
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Bob Marley One Love COLLECTiVE [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>http://stream.zeno.fm</link>
+<thumbnail>https://ia801503.us.archive.org/L.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Bob Marley [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c62dfcc6d6d058fde274f9241f5674c695a37333</link>
+<thumbnail>https://ia801503.us.archive.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+</items> 
