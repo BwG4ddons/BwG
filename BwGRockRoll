@@ -1,6 +1,15 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
+
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Iron Maiden: En Vivo! (2012) [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4943f822fa46348a6bfbbceee1643a8cc7d11400</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wLxxqTd6odxu9bczgozygrvrnR7.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Men at Work - 1982 - MTV - Ontario Canada  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881b9d77dbdf8010e84755ad7aec792aa4af9aed</link>
