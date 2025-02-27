@@ -1,1 +1,17 @@
-ok
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
+
+
+<item>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Jorge Vercillo Ao Vivo  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1415e8468f8b493feea8a078cf3b5211a92bac46</link>
+<thumbnail>https://i.discogs.com/MmQWe2CG_HM5uNBDy90JDqWC2DfipF6kovJ3u45KPCU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ4/NTEtMTQ3MjU3NTc2/MS0yNjk0LmpwZWc.jpeg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+</items> 
+
