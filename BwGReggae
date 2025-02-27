@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
+
 <item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Bob Marley One Love COLLECTiVE  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
-<link>http://stream.zeno.fm</link>
-<thumbnail>https://ia601404.us.archive.org/web.jpeg</thumbnail>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Jimmy Cliff  [/COLOR][/B][COLOR blue] Web Radio [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90e15ff75a30e61e157cbefa450790073cf563fb</link>
+<thumbnail>http://i67.fastpic.ru/big/2015/0916/36/711eb011909fca2c9a284941edccab36.jpg?r=1</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
