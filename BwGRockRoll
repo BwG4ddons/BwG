@@ -3,25 +3,11 @@
  <items>
 
 <item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Iron Maiden:The History Of Iron Maiden Part 1: The Early Days [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99e0cb11bb98be8a3f383423d4d67c3bf6eaf2c6</link>
+<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Iron Maiden: [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99e0cb11bb98be8a3f383423d4d67c3bf6eaf2c6$nome=The History Of Iron Maiden Part 1: The Early Days</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4943f822fa46348a6bfbbceee1643a8cc7d11400$nome=En Vivo! (2012)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a19cff9f096e584e4f13ff6c9c95fd73d94de51$nome=The Number Of The Beast (2001)</link>
 <thumbnail>https://i121.fastpic.org/big/2023/0207/cb/848ad78886d342ab19284900675390cb.jpg?r=1</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Iron Maiden: En Vivo! (2012) [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4943f822fa46348a6bfbbceee1643a8cc7d11400</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wLxxqTd6odxu9bczgozygrvrnR7.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [COLOR blue] Iron Maiden: The Number Of The Beast (2001) [/COLOR][/B][COLOR blue] Web Music [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a19cff9f096e584e4f13ff6c9c95fd73d94de51</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wLxxqTd6odxu9bczgozygrvrnR7.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
