@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channels>
+	
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR blue]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR blue]DISNEY[/COLOR][COLOR white]+[/COLOR][COLOR blue]=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/qXSnJJt.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/disneymovie</externallink>
+		<info></info>
+	</channel>
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR blue]-=[/COLOR][COLOR white]SERIES[/COLOR] | [COLOR blue]DISNEY[/COLOR][COLOR white]+[/COLOR][COLOR blue]=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/TEkB6kh.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://</externallink>
+		<info></info>
+	</channel>
+		    </channels>

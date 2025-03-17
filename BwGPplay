@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channels>
+	
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR deepskyblue]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR deepskyblue]PRIME VIDEO=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/AE9LPWE.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/primemovies</externallink>
+		<info></info>
+	</channel>
+		<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR deepskyblue]-=[/COLOR][COLOR white]SERIES[/COLOR] | [COLOR deepskyblue]PRIME VIDEO=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/TYivdcx.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://</externallink>
+		<info></info>
+	</channel>
+		    </channels>

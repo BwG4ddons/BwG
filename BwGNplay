@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<channels>
+	
+	<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR red]-=[/COLOR][COLOR white]FILMES[/COLOR] | [COLOR red]NETFLIX=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/40ogkFy.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/netflimovies</externallink>
+		<info></info>
+	</channel>
+		<channel>
+		<name>[B][COLOR yellow]|[/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR red]-=[/COLOR][COLOR white]SERIES[/COLOR] | [COLOR red]NETFLIX=-[/COLOR][/B] </name>
+		<thumbnail>https://i.imgur.com/Ol6ev6s.png</thumbnail>
+		<fanart></fanart>
+		<externallink>https://</externallink>
+		<info></info>
+	</channel>
+		    </channels>
