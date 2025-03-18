@@ -1,3 +1,6 @@
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="🎬Filmes e Series", RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2460000,BANDWIDTH=3070000,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.64001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
 tracks-v1a1/mono.ts.m3u8
