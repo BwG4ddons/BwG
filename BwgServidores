@@ -32,11 +32,20 @@
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
 </channel>
   
-  
+ 
 <channel>
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV WEB=-[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/CANAL%20RICOS.xml</externallink>
+<thumbnail>https://i.ibb.co/rGk5KZW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+
+<name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV TESTE=-[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwG</externallink>
 <thumbnail>https://i.ibb.co/rGk5KZW.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
