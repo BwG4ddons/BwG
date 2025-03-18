@@ -13,7 +13,7 @@
  
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TV AO VIVO=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/pyfn71T/tv-ao-vivo.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwgServidores</externallink>
 </channel>
@@ -23,7 +23,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=FILMES=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/7SZCnQB/filmes.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]FILMES LANÇAMENTOS E MT MAIS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGFilmes</externallink>
 </channel>
@@ -35,7 +35,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=SÉRIES=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/vjPxBrX/series.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwGSeries/refs/heads/home/BwGSeries1</externallink>
 </channel>
@@ -47,7 +47,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=DESENHOS=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/0rH519k/desenho.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDesenhos</externallink>
 </channel>
@@ -57,7 +57,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=ANIMES=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Qv91qbHB/animes.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]SERIES DE ANIMES E MANGAS  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGAnime</externallink>
 </channel>
@@ -68,7 +68,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=TOKUSATSU=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/5TvZfNZ/tokusatsu.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]SERIES JAPONESAS  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGTokusatsu</externallink>
 </channel>
@@ -78,7 +78,7 @@
 
 <name>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=RADIO MUSIC=-[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/fkvXnQv/musicas.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGSom</externallink>
 </channel>  
@@ -96,7 +96,7 @@
 <channel>
 <name>[B][COLOR orange] DOAÇÃO VIA PIX AO COYOTE-PLAY ADDONS[/COLOR] * [COLOR white]( 71/99947-6468 )[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/QY6jBTg/QRCode-pix.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
 <info>[COLOR orange]*[COLOR orange]AJUDE NOSSO PROJETO COYOTE-PLAY ADDONS [/COLOR]</info>
 <externallink>https://0.0.0</externallink>
 </channel>
