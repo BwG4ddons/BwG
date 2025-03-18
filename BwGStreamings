@@ -4,47 +4,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 
-	<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=[/COLOR][COLOR orangered]GLOBOPLAY=-[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/RR24iss.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGGplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR blue]-=[/COLOR][COLOR blue]DISNEY[/COLOR][COLOR white]+[/COLOR][COLOR blue]=-[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/rHOuLzy.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR red]-=[/COLOR][COLOR red]NETFLIX=-[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/Kd9UXwv.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGNplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR deepskyblue]-=[/COLOR][COLOR deepskyblue]PRIME VIDEO=-[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/QE4HCgG.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPplay</externallink>
-		<info></info>
-	</item>
-	<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR deeppink]-=[/COLOR][COLOR deeppink]PLUTO TV=-[/COLOR][/B]</title>
-		<thumbnail>https://i.imgur.com/ESsnZnp.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPlutoTv</externallink>
-		<info></info>
-	</item>
-		<item>
-		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR yellow]-=[/COLOR][COLOR yellow]RUN TIME=-[/COLOR][/B]</title>
-		<thumbnail>https://ia801202.us.archive.org/26/items/runtime_202311/Runtime.png</thumbnail>
-		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
-		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRuntime</externallink>
-		<info></info>
+
 	</item>
 		<item>
 		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR white]-=[/COLOR][COLOR white]APPLE TV=-[/COLOR][/B] </title>
@@ -53,4 +13,46 @@
 		<externallink></externallink>
 		<info></info>
 	</item>
+		
+	<item>
+		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR blue]-=[/COLOR][COLOR blue]DISNEY[/COLOR][COLOR white]+[/COLOR][COLOR blue]=-[/COLOR][/B]</title>
+		<thumbnail>https://i.imgur.com/rHOuLzy.png</thumbnail>
+		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGDplay</externallink>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR orangered]-=[/COLOR][COLOR orangered]GLOBOPLAY=-[/COLOR][/B]</title>
+		<thumbnail>https://i.imgur.com/RR24iss.png</thumbnail>
+		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGGplay</externallink>
+		<info></info>
+	</item>
+
+	<item>
+		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR red]-=[/COLOR][COLOR red]NETFLIX=-[/COLOR][/B]</title>
+		<thumbnail>https://i.imgur.com/Kd9UXwv.png</thumbnail>
+		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGNplay</externallink>
+		<info></info>
+	</item>
+	
+	<item>
+		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR deepskyblue]-=[/COLOR][COLOR deepskyblue]PRIME VIDEO=-[/COLOR][/B]</title>
+		<thumbnail>https://i.imgur.com/QE4HCgG.png</thumbnail>
+		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGPplay</externallink>
+		<info></info>
+	</item>
+
+	
+	<item>
+		<title>[B][COLOR yellow][/COLOR][COLOR orange]COYOTE-PLAY ADDONS[/COLOR][COLOR yellow] * [/COLOR][COLOR yellow]-=[/COLOR][COLOR yellow]RUN TIME=-[/COLOR][/B]</title>
+		<thumbnail>https://ia801202.us.archive.org/26/items/runtime_202311/Runtime.png</thumbnail>
+		<fanart>https://i.ibb.co/1J02SDdJ/fanart.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/BwG4ddons/BwG/refs/heads/home/BwGRuntime</externallink>
+	<info></info>
+	</item>
+
 
